@@ -1,0 +1,1738 @@
+FIXED_FERTILIZATION
+YEAR                              1
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              1
+DOY                               101
+TOOL                              Sprgplow
+DEPTH                             0.12
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.50
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              1
+DOY                               105
+CROP                              HAY
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              1
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              1
+DOY                               206
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              1
+DOY                               207
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              1
+DOY                               258
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              1
+DOY                               259
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              2
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              2
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              2
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              2
+DOY                               206
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              2
+DOY                               207
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              2
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+TILLAGE
+YEAR                              2
+DOY                               283
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              2
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              3
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              3
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              3
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              3
+DOY                               201
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              3
+DOY                               202
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              3
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+TILLAGE
+YEAR                              3
+DOY                               283
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              3
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              4
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              4
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              4
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              4
+DOY                               201
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              4
+DOY                               202
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              4
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              4
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              4
+DOY                               303
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              5
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              5
+DOY                               101
+TOOL                              Constill
+DEPTH                             0.10
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.25
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              5
+DOY                               121
+CROP                              CORN
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              5
+DOY                               121
+SOURCE                            10-20-20
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              5
+DOY                               152
+SOURCE                            33-00-00
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              5
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              6
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              1875.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              6
+DOY                               101
+TOOL                              Zerotill
+DEPTH                             0.03
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.05
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              6
+DOY                               130
+CROP                              SOYB
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+TILLAGE
+YEAR                              6
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              7
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              7
+DOY                               101
+TOOL                              Constill
+DEPTH                             0.10
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.25
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              7
+DOY                               121
+CROP                              CORN
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              7
+DOY                               121
+SOURCE                            10-20-20
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              7
+DOY                               152
+SOURCE                            33-00-00
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              7
+DOY                               275
+SOURCE                            BEEF-FR
+MASS                              3000.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              7
+DOY                               276
+TOOL                              Zerotill
+DEPTH                             0.03
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.05
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              7
+DOY                               278
+SOURCE                            10-20-11
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+PLANTING
+YEAR                              7
+DOY                               278
+CROP                              WWHT
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+TILLAGE
+YEAR                              7
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              8
+DOY                               79
+SOURCE                            33-00-00
+MASS                              200.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              8
+DOY                               188
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              9
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              9
+DOY                               101
+TOOL                              Sprgplow
+DEPTH                             0.12
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.50
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              9
+DOY                               105
+CROP                              HAY
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              9
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              9
+DOY                               206
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              9
+DOY                               207
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              9
+DOY                               258
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              9
+DOY                               259
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              10
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              10
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              10
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              10
+DOY                               206
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              10
+DOY                               207
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              10
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+TILLAGE
+YEAR                              10
+DOY                               283
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              10
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              11
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              11
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              11
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              11
+DOY                               201
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              11
+DOY                               202
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              11
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+TILLAGE
+YEAR                              11
+DOY                               283
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              11
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              12
+DOY                               105
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              12
+DOY                               166
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              12
+DOY                               167
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              12
+DOY                               201
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              12
+DOY                               202
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              12
+DOY                               242
+TOOL                              Forage_harvest
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.95
+
+FIXED_FERTILIZATION
+YEAR                              12
+DOY                               284
+SOURCE                            02-11-45
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.02
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.05
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              12
+DOY                               303
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              13
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              13
+DOY                               101
+TOOL                              Constill
+DEPTH                             0.10
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.25
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              13
+DOY                               121
+SOURCE                            10-20-20
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+PLANTING
+YEAR                              13
+DOY                               121
+CROP                              CORN
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              13
+DOY                               152
+SOURCE                            33-00-00
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              13
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              14
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              1875.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              14
+DOY                               101
+TOOL                              Zerotill
+DEPTH                             0.03
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.05
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+PLANTING
+YEAR                              14
+DOY                               130
+CROP                              SOYB
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+TILLAGE
+YEAR                              14
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              15
+DOY                               100
+SOURCE                            BEEF-FR
+MASS                              3500.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              15
+DOY                               101
+TOOL                              Constill
+DEPTH                             0.10
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.25
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              15
+DOY                               121
+SOURCE                            10-20-20
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+PLANTING
+YEAR                              15
+DOY                               121
+CROP                              CORN
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+FIXED_FERTILIZATION
+YEAR                              15
+DOY                               152
+SOURCE                            33-00-00
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+FIXED_FERTILIZATION
+YEAR                              15
+DOY                               275
+SOURCE                            BEEF-FR
+MASS                              3000.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.03
+N_CHARCOAL                        0.00
+N_NH4                             0.01
+N_NO3                             0.00
+P_ORGANIC                         0.01
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              15
+DOY                               276
+TOOL                              Zerotill
+DEPTH                             0.03
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.05
+CROP_NAME                         N/A
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              15
+DOY                               278
+SOURCE                            10-20-11
+MASS                              100.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.10
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.09
+K                                 0.00
+S                                 0.00
+
+PLANTING
+YEAR                              15
+DOY                               278
+CROP                              WWHT
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          1.0
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+TILLAGE
+YEAR                              15
+DOY                               288
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
+FIXED_FERTILIZATION
+YEAR                              16
+DOY                               79
+SOURCE                            33-00-00
+MASS                              200.00
+FORM                              LIQUID
+METHOD                            BROADCAST
+LAYER                             2
+C_ORGANIC                         0.00
+C_CHARCOAL                        0.00
+N_ORGANIC                         0.00
+N_CHARCOAL                        0.00
+N_NH4                             0.00
+N_NO3                             0.33
+P_ORGANIC                         0.00
+P_CHARCOAL                        0.00
+P_INORGANIC                       0.00
+K                                 0.00
+S                                 0.00
+
+TILLAGE
+YEAR                              16
+DOY                               188
+TOOL                              Kill_Crop
+DEPTH                             0.00
+SOIL_DISTURB_RATIO                0.00
+MIXING_EFFICIENCY                 0.00
+CROP_NAME                         All
+FRAC_THERMAL_TIME                 0.00
+KILL_EFFICIENCY                   0.00
+GRAIN_HARVEST                     0
+FORAGE_HARVEST                    0.00
+
