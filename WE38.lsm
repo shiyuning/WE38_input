@@ -15,17 +15,17 @@ LVCOEF_DATA	0.5
 ######################
 # Print Control      #
 ######################
-T1              86400
-STC             86400
-SMC             86400
-SH2O            86400
-SNOWH           86400
-ALBEDO          86400
-LE              86400
-SH              86400
-G               86400
-ETP             86400
-ESNOW           86400
-ROOTW           86400
-SOILM           86400
-SOLAR           86400
+T1              DAILY
+STC             DAILY
+SMC             DAILY
+SH2O            DAILY
+SNOWH           DAILY
+ALBEDO          DAILY
+LE              DAILY
+SH              DAILY
+G               DAILY
+ETP             DAILY
+ESNOW           DAILY
+ROOTW           DAILY
+SOILM           DAILY
+SOLAR           DAILY

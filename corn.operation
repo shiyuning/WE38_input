@@ -417,10 +417,20 @@ FORAGE_HARVEST                    0.00
 PLANTING
 YEAR                              5
 DOY                               105
-CROP                              HAY
+CROP                              ALFA
 USE_AUTO_IRR                      0
 USE_AUTO_FERT                     0
-FRACTION                          1.0
+FRACTION                          0.33
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+PLANTING
+YEAR                              5
+DOY                               105
+CROP                              Orchardgrass
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          0.67
 CLIPPING_START                    1
 CLIPPING_END                      366
 
@@ -1325,10 +1335,20 @@ FORAGE_HARVEST                    0.00
 PLANTING
 YEAR                              13
 DOY                               105
-CROP                              HAY
+CROP                              ALFA
 USE_AUTO_IRR                      0
 USE_AUTO_FERT                     0
-FRACTION                          1.0
+FRACTION                          0.33
+CLIPPING_START                    1
+CLIPPING_END                      366
+
+PLANTING
+YEAR                              13
+DOY                               105
+CROP                              Orchardgrass
+USE_AUTO_IRR                      0
+USE_AUTO_FERT                     0
+FRACTION                          0.67
 CLIPPING_START                    1
 CLIPPING_END                      366
 
