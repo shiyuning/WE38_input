@@ -883,6 +883,10 @@ IND	OP	ROTSZ	AUTO_N	AUTO_P	AUTO_S
 882	1	99	0	0	0
 883	2	16	0	0	0
 
+RESTART_CTRL
+READ_IC         0
+WRITE_IC        1
+
 OPERATION_FILE
 1       frsd.operation
 2       corn.operation
